@@ -13,8 +13,3 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - HTML
 - CSS
 - Git e Github
-
-## 📧 Contato
-
-mrn.prog@gmail.com
-
